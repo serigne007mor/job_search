@@ -1,0 +1,18 @@
+{
+  "title": "EnhancedTable Material Demo",
+  "name": "EnhancedTable Material Demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.4.3/docs/src/EnhancedTable.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "prop-types": "latest",
+    "@mui/utils": "latest",
+    "@mui/material": "latest",
+    "@mui/icons-material": "latest",
+    "@emotion/styled": "latest",
+    "@emotion/react": "latest"
+  }
+}
